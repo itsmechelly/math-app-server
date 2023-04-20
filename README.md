@@ -7,6 +7,8 @@ math-app-server 👉🏻 [click here to see the source code on GitHub](https://g
 <br/>
 math-app-client 👉🏻 [click here to see the source code on GitHub](https://github.com/itsmechelly/math-app-client)
 <br/><br/>
+[CLICK HERE](http://math-app-ui.s3-website-eu-west-1.amazonaws.com/) to see the website!<br/>
+<br/>
 
 To write this project I used Java Networking Programming tools (java.net) and it's designed to handle several math clients, meaning, it is a multi-threaded system.
 <br/><br/>
